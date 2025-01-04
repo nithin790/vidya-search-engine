@@ -37,19 +37,11 @@ This project creates a semantic search tool for free courses available on the An
    streamlit run app.py
    ```
 
-## Example Query
-Search for terms like "Python," "Machine Learning," or "AI" to find relevant courses.
-```
+![Interface](https://github.com/user-attachments/assets/53c3f90e-e519-49a5-8bd4-5b811f7539ec)
+![image](https://github.com/user-attachments/assets/2d303e5e-ddf3-43c5-aecc-d78d5c7ac9eb)
+![image](https://github.com/user-attachments/assets/6f312072-6621-4c61-b2e6-244db88402be)
 
----
 
-## How It's Different
-1. **Original Scraping Logic**:
-   - The scraping logic uses a slightly different approach for extracting course details.
 
-2. **Independent Implementation**:
-   - The logic for embedding generation and cosine similarity is written from scratch.
 
-3. **Clean Structure**:
-   - The project is well-organized with clear distinctions between scripts for scraping, searching, and UI.
 
