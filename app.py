@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import streamlit as st
 
 # Load the scraped data
-DATA_FILE = "data/courses.json"
+DATA_FILE = "courses.json"
 
 
 def load_data():
